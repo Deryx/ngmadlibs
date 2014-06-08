@@ -240,7 +240,11 @@
       <created>1402190367185</created>
       <updated>1402190367185</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="AngularJS: ngMadLibs">
+      <created>1402190428010</created>
+      <updated>1402190428010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
